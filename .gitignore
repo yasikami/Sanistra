@@ -1,0 +1,19 @@
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env/
+
+# PyInstaller output and spec files
+build/
+dist/
+*.spec
+
+# Local per-user updater config (example file stays tracked)
+config/update_config.json
+
+# Local patch/update packages
+update_patch.zip
+*.tmp
+*.bak
